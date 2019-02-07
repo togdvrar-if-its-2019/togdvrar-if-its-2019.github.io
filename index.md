@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# IF185932 - Topics on Game Dev, VR / AR
 
-You can use the [editor on GitHub](https://github.com/togdvrar-if-its-2019/togdvrar-if-its-2019.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](logo.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About
+#### Schedule
+Thursday, 07.30 – 09.50
+#### Classroom
+IF-112
+#### Lecturer
+Hadziq Fabroyir 
+- **NPP**: 1986201911089 )
+- **Email**:
+hadziq (at) if.its.ac.id
+- **Office**:
+IF-233 ( 2nd Floor, North Corridor )
+- **Office hours**:
+Tuesday and Friday, 09.00 – 11.00 ( or by appointment )
 
-### Markdown
+## Grading
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Presence (10%)
+2. Assignment 1: Game Review and Presentation (20%)
+3. Assignment 2: Paper Review and Presentation (30%)
+4. Assignment 3: Game / VR / AR Dev and Presentation (30%)
 
-```markdown
-Syntax highlighted code block
+- Extra score if you can submit your work to ICTS 2019
+- Definite A for this course if your work is accepted on ICTS 2019
 
-# Header 1
-## Header 2
-### Header 3
+## Reading
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/togdvrar-if-its-2019/togdvrar-if-its-2019.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [IEEE Transactions on Computational Intelligence and AI in Games](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4804728)
+2. [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
+3. [IEEE Transactions Systems, Man and Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)
+4. [ACM SIGGRAPH](https://dl.acm.org/sig.cfm?id=SP932) and [ACM SIGCHI](https://dl.acm.org/sig.cfm?id=SP923)
+5. 3D User Interfaces: Theory and Practice, by Bowman et. al.
