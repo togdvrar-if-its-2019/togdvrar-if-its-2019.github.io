@@ -5,13 +5,10 @@ Thursday, 07.30 – 09.50
 IF-112
 #### Lecturer
 Hadziq Fabroyir 
-- **NPP**: 1986201911089 )
-- **Email**:
-hadziq (at) if.its.ac.id
-- **Office**:
-IF-233 ( 2nd Floor, North Corridor )
-- **Office hours**:
-Tuesday and Friday, 09.00 – 11.00 ( or by appointment )
+- **NPP**: 1986201911089
+- **Email**: hadziq (at) if.its.ac.id
+- **Office**: IF-233 ( 2nd Floor, North Corridor )
+- **Office hours**: Tuesday and Friday, 09.00 – 11.00 ( or by appointment )
 
 ## Grading
 
@@ -30,3 +27,7 @@ Tuesday and Friday, 09.00 – 11.00 ( or by appointment )
 3. [IEEE Transactions Systems, Man and Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)
 4. [ACM SIGGRAPH](https://dl.acm.org/sig.cfm?id=SP932) and [ACM SIGCHI](https://dl.acm.org/sig.cfm?id=SP923)
 5. 3D User Interfaces: Theory and Practice, by Bowman et. al.
+
+## Meeting Slides (*IF ITS access only*)
+
+1. [Introduction to The Course (2019-02-07)](http://10.151.22.158/togdvrar2019/1stMeeting.pptx)
