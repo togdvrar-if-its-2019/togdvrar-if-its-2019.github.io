@@ -7,8 +7,8 @@ IF-112
 Hadziq Fabroyir 
 - **NPP**: 1986201911089
 - **Email**: hadziq (at) if.its.ac.id
-- **Office**: IF-233 ( 2nd Floor, North Corridor )
-- **Office hours**: Tuesday and Friday, 09.00 – 11.00 ( or by appointment )
+- **Office**: IF-233 (2nd Floor, North Corridor)
+- **Office hours**: Tuesday and Friday, 09.00 – 11.00 (or by appointment)
 
 ## Grading
 
