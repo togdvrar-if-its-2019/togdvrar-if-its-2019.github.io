@@ -1,7 +1,3 @@
-# IF185932 - Topics on Game Dev, VR / AR
-
-![Image](logo.png)
-
 ## About
 #### Schedule
 Thursday, 07.30 – 09.50
