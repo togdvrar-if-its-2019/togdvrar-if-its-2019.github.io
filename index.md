@@ -28,6 +28,6 @@ Hadziq Fabroyir
 4. [ACM SIGGRAPH](https://dl.acm.org/sig.cfm?id=SP932) and [ACM SIGCHI](https://dl.acm.org/sig.cfm?id=SP923)
 5. 3D User Interfaces: Theory and Practice, by Bowman et. al.
 
-## Course Materials (*IF ITS access only*)
+## Course Materials
 
-1. [Introduction to The Course (2019-02-07)](http://10.151.22.158/togdvrar2019/1stMeeting.pptx)
+1. [Introduction to The Course (PPTX: 147.7KB)](http://hadziq.if.its.ac.id/togdvrar2019/1stMeeting.pptx)
