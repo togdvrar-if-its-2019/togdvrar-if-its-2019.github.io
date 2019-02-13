@@ -15,7 +15,7 @@ Hadziq Fabroyir
 1. Presence (10%)
 2. Assignment 1: Game Review and Presentation (20%)
 3. Assignment 2: Paper Review and Presentation (30%)
-4. Assignment 3: Game / VR / AR Dev and Presentation (30%)
+4. Assignment 3: Game / VR / AR Dev and Presentation (40%)
 
 - Extra score if you can submit your work to ICTS 2019
 - Definite A for this course if your work is accepted on ICTS 2019
