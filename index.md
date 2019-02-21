@@ -32,3 +32,4 @@ Hadziq Fabroyir
 
 1. [Introduction to The Course (PPTX: 147.7KB)](http://hadziq.if.its.ac.id/togdvrar2019/1stMeeting.pptx)
 2. [Introduction to Game (PPTX: 3.4MB)](http://hadziq.if.its.ac.id/togdvrar2019/2ndMeeting.pptx)
+3. [Introduction to VR/AR/MR (PPTX: 2.8MB)](http://hadziq.if.its.ac.id/togdvrar2019/3rdMeeting.pptx)
