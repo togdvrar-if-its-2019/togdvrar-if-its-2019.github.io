@@ -12,7 +12,7 @@ Hadziq Fabroyir
 
 ## Grading
 
-1. Presence (20%)
+1. [Presence](http://etc.if.its.ac.id/absenKuliah/IF185932-A-2019) (20%)
 2. [Assignment 1](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-1): Game Review and Presentation (20%)
 3. [Assignment 2](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-2): Paper Review and Presentation (30%)
 4. [Assignment 3](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-3): Game / VR / AR Dev and Presentation (30%)
