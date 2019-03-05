@@ -26,7 +26,7 @@ Hadziq Fabroyir
 2. [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)
 3. [IEEE Transactions Systems, Man and Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)
 4. [ACM SIGGRAPH](https://dl.acm.org/sig.cfm?id=SP932) and [ACM SIGCHI](https://dl.acm.org/sig.cfm?id=SP923)
-5. 3D User Interfaces: Theory and Practice, by Bowman et. al.
+5. **3D User Interfaces: Theory and Practice** by Bowman et. al.
 
 ## Course Materials
 
