@@ -13,9 +13,9 @@ Hadziq Fabroyir
 ## Grading
 
 1. Presence (20%)
-2. Assignment 1: Game Review and Presentation (20%)
-3. Assignment 2: Paper Review and Presentation (30%)
-4. Assignment 3: Game / VR / AR Dev and Presentation (30%)
+2. [Assignment 1](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-1): Game Review and Presentation (20%)
+3. [Assignment 2](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-2): Paper Review and Presentation (30%)
+4. [Assignment 3](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-3): Game / VR / AR Dev and Presentation (30%)
 
 - Extra score if you can submit your work to ICTS 2019
 - Definite A for this course if your work is accepted on ICTS 2019
