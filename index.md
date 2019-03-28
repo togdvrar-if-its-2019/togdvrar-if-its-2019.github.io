@@ -35,4 +35,5 @@ Hadziq Fabroyir
 3. [Introduction to VR/AR/MR (PPTX: 2.8MB)](http://hadziq.if.its.ac.id/togdvrar2019/3rdMeeting.pptx)
 4. [Introduction to Human-Centered Design for VR (3.4MB)](http://hadziq.if.its.ac.id/togdvrar2019/4thMeeting.pptx)
 5. [Introduction to VR Interactions (4.7MB)](http://hadziq.if.its.ac.id/togdvrar2019/5thMeeting.pptx)
-6. [Paper Reviews: Students' Presentation](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-2)
+6. [Paper Reviews Part 1: Students' Presentation](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-2)
+7. [Paper Reviews Part 2: Students' Presentation](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-2)
