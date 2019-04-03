@@ -27,6 +27,7 @@ Hadziq Fabroyir
 3. [IEEE Transactions Systems, Man and Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)
 4. [ACM SIGGRAPH](https://dl.acm.org/sig.cfm?id=SP932) and [ACM SIGCHI](https://dl.acm.org/sig.cfm?id=SP923)
 5. **3D User Interfaces: Theory and Practice** by Bowman et. al.
+6. **The VR Book: Human-Centered Design for Virtual Reality** by 	Jason Jerald
 
 ## Course Materials
 
@@ -37,3 +38,4 @@ Hadziq Fabroyir
 5. [Introduction to VR Interactions (4.7MB)](http://hadziq.if.its.ac.id/togdvrar2019/5thMeeting.pptx)
 6. [Paper Reviews Part 1: Students' Presentation](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-2)
 7. [Paper Reviews Part 2: Students' Presentation](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-2)
+8. [Introduction to AR Development (2.6MB)](http://hadziq.if.its.ac.id/togdvrar2019/8thMeeting.pptx)
