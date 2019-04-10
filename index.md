@@ -39,4 +39,4 @@ Hadziq Fabroyir
 6. [Paper Reviews Part 1: Students' Presentation](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-2)
 7. [Paper Reviews Part 2: Students' Presentation](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-2)
 8. [Introduction to AR Development (PPTX: 2.6MB)](http://hadziq.if.its.ac.id/togdvrar2019/8thMeeting.pptx)
-9. [Pre Final Project: Discussion](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-3)
+9. [Paper Reviews](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-2) and [Pre Final Project: Discussion](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-3)
