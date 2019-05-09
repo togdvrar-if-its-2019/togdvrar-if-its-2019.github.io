@@ -43,3 +43,4 @@ Hadziq Fabroyir
 10. [Introduction to User Interaction Design (PPTX: 2.2MB)](http://hadziq.if.its.ac.id/togdvrar2019/10thMeeting.pptx)
 11. [Paper Reviews](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-2) and [Pre Final Project: Discussion](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-3)
 12. [Paper Reviews](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-2) and [Pre Final Project: Discussion](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-3)
+13. [Introduction to Academic Writing (PPTX: 918KB)](http://hadziq.if.its.ac.id/togdvrar2019/13thMeeting.pptx)
