@@ -44,4 +44,5 @@ Hadziq Fabroyir
 11. [Paper Reviews](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-2) and [Pre Final Project: Discussion](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-3)
 12. [Paper Reviews](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-2) and [Pre Final Project: Discussion](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-3)
 13. [Introduction to Academic Writing (PPTX: 918KB)](http://hadziq.if.its.ac.id/togdvrar2019/13thMeeting.pptx)
-14. [Pre Final Project: Discussion](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-3)
+14. [Pre Final Project: Discussion](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-3))
+15. [Final Project: Presentation and Demo](https://github.com/togdvrar-if-its-2019?utf8=✓&q=assignment-3)
